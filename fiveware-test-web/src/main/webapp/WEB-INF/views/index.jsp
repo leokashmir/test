@@ -37,8 +37,8 @@
 		
 		
 		<div class="radio" >
-			<form:checkbox path="formado"  />	
-			<label>Ja possui graduação ou se formara nos proximos 6 meses?:</label>	
+			<form:checkbox path="formado" label="Ja possui graduação ou se formara nos proximos 6 meses?" />	
+			<label></label>	
 		</div>
 		<br>
 		<button type="button" onclick="enviar();"  class="btn btn-primary btn-sm" >Salvar</button>
